@@ -1,0 +1,19 @@
+center{
+    min-height: 100vh;
+    display: flex;
+    align-items:center;
+    background-color: black;
+    color: white;
+}
+.container{
+    border: 1px solid white;
+    border-radius: 30px;
+}
+input{
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+}
+h6{
+    margin-top: 20px;
+}

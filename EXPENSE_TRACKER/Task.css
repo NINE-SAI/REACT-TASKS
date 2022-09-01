@@ -1,0 +1,26 @@
+center{
+    min-height: 100vh;
+    align-items: center;
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.container{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+input{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+    background-color: black;
+    color: aliceblue;    
+}
+button{
+    border-radius: 5px;
+}
+table{
+    border: 1px solid white;
+    border-radius: 10px;
+}

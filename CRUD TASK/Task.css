@@ -1,0 +1,37 @@
+center{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: black ;
+}
+.container{
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    display: flex;
+}
+input,select{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    border-radius: 5px;
+    color: black;
+    background-color: aqua;
+}
+button{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 5px;
+}
+table{
+    border: 1px solid white;
+    color: aliceblue;
+    margin-left: 15px;
+    margin-right: 15px;}
+span{
+    color: red;
+    margin-right: 40px;
+}
+i{
+    margin-left: 15px;
+    margin-right: 15px;
+}

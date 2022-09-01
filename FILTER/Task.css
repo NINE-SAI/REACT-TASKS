@@ -1,0 +1,20 @@
+center{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.container{
+    display: flex;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+input{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+}
